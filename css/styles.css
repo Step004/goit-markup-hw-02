@@ -71,7 +71,7 @@ a:focus {
     counter-reset: #404bbf;
 }
 
-.logo-1 {
+.logo-h {
     color: var(--WHITE, #FFF);
     text-align: center;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -79,7 +79,7 @@ a:focus {
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 1.12px;
 }
 
@@ -91,7 +91,7 @@ a:focus {
     letter-spacing: 0.04em;
     color: #ffffff;
     border-radius: 4px;
-    background-color: #404BBF;
+    background-color: #4D5AE5;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     display: inline-flex;
     padding: 16px 32px;
@@ -118,10 +118,12 @@ a:focus {
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.07;
+    line-height: 1.2;
     letter-spacing: 0.4px;
 }
-
+.section-1-h2{
+    line-height: 1.2;
+}
 .main-list-p {
     color: var(--SLATE, #434455);
     font-family: Roboto;
@@ -132,7 +134,7 @@ a:focus {
     letter-spacing: 0.32px;
 }
 
-.section-2 {
+.section-two {
     background-color: #F4F4FD
 }
 
@@ -148,11 +150,11 @@ a:focus {
     text-transform: capitalize;
 }
 
-.section-2-list-item {
+.section-two-list-item {
     background-color: #FFFFFF;
 }
 
-.section-2-list-item-name {
+.section-two-list-item-name {
     color: var(--NAVY-BLUE, #2E2F42);
     text-align: center;
     font-family: Roboto;
@@ -163,7 +165,7 @@ a:focus {
     letter-spacing: 0.4px;
 }
 
-.section-2-list-item-position {
+.section-two-list-item-position {
     color: var(--SLATE, #434455);
     text-align: center;
     font-family: Roboto;
@@ -189,7 +191,7 @@ a:focus {
 
 .webstudio-f {
     color: var(--NAVY-BLUE, #4d5ae5);
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -208,7 +210,7 @@ a:focus {
     letter-spacing: 0.32px;
 }
 
-.section-3-list-item-name {
+.section-three-list-item-name {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
     font-size: 20px;
@@ -218,7 +220,7 @@ a:focus {
     letter-spacing: 0.4px;
 }
 
-.section-3-list-item-position {
+.section-three-list-item-position {
     color: var(--SLATE, #434455);
     font-family: Roboto;
     font-size: 16px;
