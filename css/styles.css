@@ -85,16 +85,8 @@ a:focus {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    border-radius: 4px;
     background-color: #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
     cursor: pointer;
-    margin-left: 636px;
-    margin-top: 356px;
 }
 
 .button:hover,
@@ -103,9 +95,6 @@ a:focus {
 }
 
 .logo {
-    width: 1440px;
-    height: 600px;
-    flex-shrink: 0;
     background: var(--NAVY-BLUE, #2E2F42);
 }
 
@@ -164,7 +153,7 @@ a:focus {
     letter-spacing: 0.4px;
 }
 
-.section-two-list-item-position {
+.section-two-list-item-p {
     color: var(--SLATE, #434455);
     text-align: center;
     font-family: Roboto;
@@ -185,7 +174,7 @@ a:focus {
     letter-spacing: 0.4px;
 }
 
-.section-three-list-item-position {
+.section-three-list-item-p {
     color: var(--SLATE, #434455);
     font-family: Roboto;
     font-size: 16px;
@@ -198,9 +187,6 @@ a:focus {
 .footer {
     background: var(--NAVY-BLUE, #2E2F42);
     font-family: "Raleway", sans-serif;
-    width: 1440px;
-    height: 312px;
-    flex-shrink: 0;
 }
 
 .webstudio-f {
