@@ -106,9 +106,9 @@ a:focus {
 }
 
 .logo {
-    /* width: 1440px;
+    width: 1440px;
     height: 600px;
-    flex-shrink: 0; */
+    flex-shrink: 0;
     background: var(--NAVY-BLUE, #2E2F42);
 }
 
