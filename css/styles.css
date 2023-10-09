@@ -22,6 +22,7 @@ a:focus {
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
+    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
@@ -39,11 +40,14 @@ a:focus {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
     font-size: 16px;
+    font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.32px;
 }
 
-
+.header-address {
+    font-style: normal;
+}
 
 .header-address-list-item-a {
     color: #434455;
@@ -70,11 +74,13 @@ a:focus {
 
 .button {
     font-family: "Roboto", sans-serif;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
     background-color: #4D5AE5;
+    cursor: pointer;
 }
 
 .button:hover,
@@ -90,6 +96,7 @@ a:focus {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
     font-size: 20px;
+    font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
 }
@@ -129,6 +136,7 @@ a:focus {
     text-align: center;
     font-family: Roboto;
     font-size: 20px;
+    font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
 }
@@ -146,6 +154,7 @@ a:focus {
     color: var(--NAVY-BLUE, #2E2F42);
     font-family: Roboto;
     font-size: 20px;
+    font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
 }
@@ -167,6 +176,7 @@ a:focus {
     color: var(--NAVY-BLUE, #4d5ae5);
     font-family: "Raleway", sans-serif;
     font-size: 18px;
+    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
